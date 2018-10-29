@@ -1,0 +1,19 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "A comment box created using the MERN stack",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/milomacphail/mern-comment-box.git"
+  },
+  "author": "Milo MacPhail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milomacphail/mern-comment-box/issues"
+  },
+  "homepage": "https://github.com/milomacphail/mern-comment-box#readme"
+}
